@@ -1,0 +1,3 @@
+name: gtp-infra
+runtime: go
+description: Discovery's Global Transcoding Platform Infrastructure

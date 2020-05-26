@@ -1,0 +1,15 @@
+encryptionsalt: v1:hJUxXoCdU94=:v1:KTeChavAJyPkIpVQ:gj7V/sEPdeg1nBrrohOvif2gOO3azQ==
+config:
+  gtp-infra:env: dev
+  datadog:apiKey:
+    secure: v1:MvN6abNiLW+Sk+xP:D5q28eEXoW4eEggTffc5EI45GcP0H6BRYvgPdNsaYd2LwCvk6PHESEbrKA+TmP9B
+  datadog:appKey:
+    secure: v1:2MIcjia43piHe2R7:QOtGBCRfEofowpKuHCLi4YZy0t+0Gct/PTeFVsDvBi3raXJA3pTN5h//H/9A3Lic7LgRgcXJiyc=
+  gtp:user: "580308463258"
+  rds:allocatedStorage: "20"
+  rds:dbName: rdsGtp
+  rds:dbPassword:
+    secure: v1:AIgTwErUl5neVixS:+S8rlf1S43VC0VciHgDu/kgUy2FPdUheUPkU+zjwRCDCxmN2wfsIkU0DmY+57siEOzwioWdOxtYKXEBFXCSTVDyw8Suv
+  rds:engineVersion: "12.2"
+  rds:instanceClass: db.t3.micro
+  rds:username: testdbadmin
